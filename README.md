@@ -76,20 +76,28 @@ Week-8/
 ├── capstone_analysis.ipynb
 ├── README.md
 ├── requirements.txt
+│
 ├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
+│   ├── customer_churn.csv
+│   ├── house_prices.csv
+│   └── sales_data.csv
+│
 ├── notebooks/
 │   ├── 1_data_cleaning.ipynb
 │   ├── 2_eda.ipynb
-│   └── 3_analysis.ipynb
+│   └── 3_advanced_analysis.ipynb
+│
 ├── reports/
 │   ├── executive_summary.pdf
 │   └── technical_report.pdf
+│
 ├── presentations/
 │   └── business_presentation.pptx
+│
 ├── visualizations/
-│   └── charts_and_dashboard_images
+│   ├── churn_analysis_plots/
+│   ├── house_price_analysis_plots/
+│   └── sales_analysis_plots/
 ```
 
 ---
