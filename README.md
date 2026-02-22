@@ -1,9 +1,4 @@
 # Week-8
-Here’s a **README.md** written in the **same professional style and structure** as your Week-6 file, but adapted perfectly for **Week-8 Capstone Project** 👇
-
----
-
-# Week-8
 
 # Capstone Project – Real World Business Analysis
 
