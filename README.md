@@ -33,6 +33,7 @@ This project demonstrates the full analytics pipeline including problem framing,
 * matplotlib
 * seaborn
 * plotly
+* os
 * scipy / statsmodels
 * Jupyter Notebook
 * Visual Studio Code (VS Code)
