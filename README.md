@@ -95,10 +95,7 @@ Week-8/
 ├── presentations/
 │   └── business_presentation.pptx
 │
-├── visualizations/
-│   ├── churn_analysis_plots/
-│   ├── house_price_analysis_plots/
-│   └── sales_analysis_plots/
+
 ```
 
 ---
@@ -127,8 +124,6 @@ Week-8/
 * Scatter Plot Relationship Analysis
 * Dashboard-style Multi-Chart Layout
 
-All visualizations are saved inside the **visualizations/** folder.
-Professional charts are used in reports and presentations.
 
 ---
 
@@ -175,9 +170,9 @@ Professional charts are used in reports and presentations.
 
 # 📦 Deliverables
 
-* Executive Summary (1 page)
-* Technical Report (5–10 pages)
-* Business Presentation (10–15 slides)
+* Executive Summary 
+* Technical Report 
+* Business Presentation 
 * Well-documented Code Repository
 * Portfolio-ready Project Structure
 
