@@ -79,21 +79,28 @@ Week-8/
 ├── requirements.txt
 │
 ├── data/
-│   ├── customer_churn.csv
-│   ├── house_prices.csv
-│   └── sales_data.csv
-│
+│   ├── cleaned-data/
+│         ├──business_kpi.summary.csv
+│         ├──cleaned_customer_churn.csv
+│         ├──cleaned_house_prices.csv
+│         └──cleaned_sales_data.csv
+│   ├── raw-data/
+│         ├──customer_churn.csv
+│         ├──house_prices.csv
+│         └──sales_data.csv
 ├── notebooks/
 │   ├── 1_data_cleaning.ipynb
 │   ├── 2_eda.ipynb
 │   └── 3_advanced_analysis.ipynb
 │
+├── presentations/
+│   └── business_presentation.pptx
+│
 ├── reports/
 │   ├── executive_summary.pdf
 │   └── technical_report.pdf
-│
-├── presentations/
-│   └── business_presentation.pptx
+
+
 
 
 ```
